@@ -11,7 +11,7 @@
 <body>
     <header>
         <div>
-            <a href="index.html"><img src="./IMG/epica.jpg" alt="header logo"width="700"height="400"></a>
+            <a href="index.html"><img src="./IMG/epica.jpg" alt="header logo" width="700" height="400"></a>
             <hr>
             <video controls>
             <source src="./Video/epica-quietus.mp4" type="video/mp4">
